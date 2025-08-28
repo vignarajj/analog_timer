@@ -10,10 +10,6 @@ topics:
   - countdown
   - widget
   - ui
-  - flutter
-  - clock
-  - circular
-  - progress
 
 environment:
   sdk: ^3.8.1
